@@ -13,7 +13,7 @@
     "@firebase/app": "^0.10.17",
     "@firebase/database": "^1.0.10",
     "@heroicons/react": "^2.2.0",
-    "firebase": "^11.1.0",
+    "firebase": "^11.2.0",
     "lucide-react": "^0.471.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
